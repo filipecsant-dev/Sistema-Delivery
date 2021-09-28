@@ -11,8 +11,8 @@ fiscal, atualizar o status do pedido com apenas um clique e ao enviar o cliente 
     - Bloqueando automaticamente o acesso ao sistema e ao app (caso não esteja atualizado como pago).
  
 
-Visualização:
-  https://www.youtube.com/watch?v=QVRNeOEdSAk
+- Visualização:
+    - https://www.youtube.com/watch?v=QVRNeOEdSAk
 
 
 Funcionalidades:
