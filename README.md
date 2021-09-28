@@ -6,8 +6,22 @@ Objetivo:
 de consumo pelo aplicativo é imediatamente enviada ao sistema web do estabelecimento que fará a administração do mesmo podendo: Vizualizar o pedido,  imprimindo em impressora não 
 fiscal, atualizar o status do pedido com apenas um clique e ao enviar o cliente receber notificação push com o status.
 
+- Sistema sendo totalmente gerenciado por um administrador:
+    - Atualizando o status de pagamento mensal.
+    - Bloqueando automaticamente o acesso ao sistema e ao app (caso não esteja atualizado como pago).
+ 
+
 Visualização:
   https://www.youtube.com/watch?v=QVRNeOEdSAk
+
+
+Funcionalidades:
+  - Pedido via App.
+  - Atualização de status.
+  - Notificação push.
+  - Relatório de vendas.
+  - Relatório de finanças.
+
 
 Linguagens utilizadas:
 
