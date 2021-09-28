@@ -35,9 +35,9 @@ Linguagens utilizadas:
       - Javascript
       - Java (AndroidStudio)
       
-  -Bibliotecas:
+  - Bibliotecas:
       - Bootstrap
       - Firebase
   
-  -Banco de Dados:
-      -MySQL
+  - Banco de Dados:
+      - MySQL
